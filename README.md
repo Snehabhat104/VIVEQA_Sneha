@@ -5,9 +5,9 @@ This repository contains my daily learning notes, assignments, and Verilog imple
 ## Repository Structure
 
 ```text
-Day_01/
-Day_02/
-Day_03/
+DAY_1/
+DAY_2/
+DAY_3/
 ...
 ```
 
