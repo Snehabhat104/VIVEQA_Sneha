@@ -475,7 +475,7 @@ Study Arduino Architecture:
 
 ## New Terms Encountered
 
-| Term                  | Description                               |
+| Terms                  | Description                               |
 | --------------------- | ----------------------------------------- |
 | PLL                   | Phase Locked Loop                         |
 | EDA                   | Electronic Design Automation              |
