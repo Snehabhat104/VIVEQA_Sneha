@@ -364,6 +364,16 @@ Detection occurs more than once because states are reused instead of resetting c
 
 ---
 
+# Tasks
+
+* Up Counter
+* Down Counter
+* Sequence Detector 011 using Mealy FSM
+* Sequence Detector 011 using Moore FSM
+* Sequence Detector 1001 using Mealy FSM (Overlapping)
+
+---
+
 # Key Takeaways
 
 * Flip-flops can be converted using excitation tables.
